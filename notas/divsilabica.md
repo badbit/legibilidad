@@ -1,0 +1,13 @@
+# Pautas para la división silábica relativas a las secuencias de consonantes
+
+* En Español toda sílaba debe contener al menos una vocal, que constituye su núcleo. Por lo tanto, toda consonante o secuencia de consonantes situada a principio de palabra forma sílaba con la vocal siguiente: lo.te, gra.so, plie.go; y toda consonante o secuencia de consonantes situada a final de palabra se agrupa con la vocal anterior: a.zul, com.post, ré.cords.
+
+* Una consonante entre dos vocales forma sílaba con la vocal anterior.
+
+* Cuando son dos las consonantes en situación intervocálica, siempre que no constituyan un dígrafo (-> e), se dan dos casos, según las consonante de que se trate:
+⋅* Los grupos _pr_, _br_, _tr_, _dr_, _cr_, _kr_, _gr_, _fr_, así como _pl_, _bl_, _cl_, _kl_, _gl_, _fl_, son inseparables y forman sílaba con la vocal siguiente: a.pre.tar, ha.bló, ci.clo, a.le.gró, la.drón, co.fre.
+⋅* No obstante, en casos de prefijación y composición puede existir una frontera silábica entre las consonantes de los grupos citados: subrayar [sub.rra.yar], _sublunar_ [sub.lu.nar], _postromántico_ [post.rro.mán.ti.ko], _ciudadrealeño_] ('de Ciudad Real [Esp.]') [siu.dad.rre.a.lé.ño, ziu.dad.rre.a.lé.ño] (más raramente: abrogar [ab.rro.gár], adrenal [ad.rre.nál]). En estos casos, puede situarse entre las consonantes de esos gruops el guion de final de línea: sub-/rayar, sub-/lunar, post-/romántico, ciudad-/realeño.
+⋅* Por otra parte, la secuencia tl, que en casi toda España y en algunos países americanos se pronuncia en sílabas distintas, forma un grupo inseparable y se pronuncia dentro de la misma sílaba en gran parte de América, en Canarias y en algunas áreas españolas peninsulares. Por lo tanto, las palabras que contienen esta secuencia, se separan en sílabas de dos formas, según las zonas: at.le.ta o a.tle.ta. Consecuentemente, el guion de final de línea podrá separar o no estas consonantes según se pronuncien en sílabas distintas o dentro de la misma sílaba: at-/leta o atle-/ta.
+⋅* El resto de las secuencias de dos consonantes forman siempre parte de sílabas distintas: ac.to, rec.cción, blan.co, hip.no.sis, per.dón.
+
+* Si son tres las consonantes que aparecen en posición intervocálica, las dos primeras se pronuncian en una misma sílaba unidas a la vocal anterior, mientras que la tercera forma parte de la sílaba siguiente: ins.tar, pers.pi.caz, ist.mo. Naturalmente, si las dos últimas consonantes forman uno de los grupos inseparables antes citados (pr, br, tr, bl, gl, etc.), la separación silábica se realiza teniendo en cuenta esa circunstancia: es.plen.dor, sub.cla.se, com.pra.
